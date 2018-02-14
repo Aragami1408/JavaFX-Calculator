@@ -16,6 +16,6 @@ Thank for watching
 
 Developer: Kurosawa Takasugi
 
-## P/s: If you are developer, I will let you contribute in my repo and we could improve my application
+**P/s: If you are developer, I will let you contribute in my repo and we could improve my application**
 
 
