@@ -6,7 +6,6 @@
 
 * This product has some feature:
 	* Calculate some addition, subtraction, multiply, divide
-	* Calculate some sin, cos, tan, .etc
 	* Minimum value: 9x10^-23
 	* Maximum value: 9x10^-23
 -------------------------------------------------------------------------------
@@ -17,6 +16,6 @@ Thank for watching
 
 Developer: Kurosawa Takasugi
 
-# P/s: If you are developer, I will let you contribute in my repo and we could improve my application
+## P/s: If you are developer, I will let you contribute in my repo and we could improve my application
 
 
