@@ -7,7 +7,7 @@
 * This product has some feature:
 	* Calculate some addition, subtraction, multiply, divide
 	* Minimum value: 9x10^-23
-	* Maximum value: 9x10^-23
+	* Maximum value: 9x10^23
 -------------------------------------------------------------------------------
 
 If users wanna more feature than, please tell us at issue tab. I promise that I will perform and commit ASAP of your request
