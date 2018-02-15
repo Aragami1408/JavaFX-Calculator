@@ -16,7 +16,7 @@ import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 
 /**
- * @author Villan
+ * @author Aragami1408
  */
 public class Controller implements Initializable {
 
