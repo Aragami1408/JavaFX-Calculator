@@ -14,7 +14,7 @@ If users wanna more feature than, please tell us at issue tab. I promise that I 
 
 Thank for watching
 
-Developer: Kurosawa Takasugi
+Developer: HarryCoder a.k.a Aragami1408
 
 **P/s: If you are developer, I will let you contribute in my repo and we could improve my application**
 
